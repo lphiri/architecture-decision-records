@@ -5,7 +5,7 @@
 | Date           | 2026-08-19 |
 | Scope          | Operator (RHOAI platform-wide multi-tenancy) |
 | Status         | Draft |
-| Authors        | [Lindani Phiri](@lphiri) |  [Chris Sams](@csams)
+| Authors        | [Lindani Phiri](@lphiri) ,  [Chris Sams](@csams)|
 | Supersedes     | N/A |
 | Superseded by: | N/A |
 | Tickets        | [RHAIRFE-2922](https://redhat.atlassian.net/browse/RHAIRFE-2922), [RHAISTRAT-2554](https://redhat.atlassian.net/browse/RHAISTRAT-2554) |
