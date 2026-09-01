@@ -1,4 +1,4 @@
-# RHOAI Tenant Resource Quota and Fairness
+# RHOAI Resource Quota for Multi-Tenancy
 
 |                |            |
 | -------------- | ---------- |
